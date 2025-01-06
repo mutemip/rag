@@ -1,4 +1,5 @@
 # Retrival augmented generation (RAG)
+**NB:** I am using minsearch module in place of Elasticsearch. Next implementation will use Elasticsearch.
 
 ## Groq API Key
  - Create an account on GroqCloud console: <https://console.groq.com/login>
